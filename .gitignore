@@ -1,0 +1,33 @@
+# Claude Code local overrides
+.claude/settings.local.json
+.claude/agent-memory*/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PHP / Composer
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE (keep shared configs, ignore personal)
+.vscode/settings.json
+
+# Logs
+*.log
+docs/
