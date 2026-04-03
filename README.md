@@ -227,8 +227,8 @@ This repo does not try to auto-configure everything. It is meant to be understan
 ## Related content
 
 This repo pairs with content on [igotasite4that.com](https://igotasite4that.com):
-- Tutorial: step-by-step Claude Code setup in VS Code
-- Blog: why modular CLAUDE.md beats a giant instruction file
+- [Tutorial: step-by-step Claude Code setup in VS Code](https://igotasite4that.com/blog/claude-code-vscode-multistack-starter-tutorial)
+- [Blog: why modular CLAUDE.md beats a giant instruction file](https://igotasite4that.com/blog/why-most-claude-md-files-are-too-big)
 
 ## License
 
